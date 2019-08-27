@@ -1,0 +1,13 @@
+body{
+    font-family: 'Europa', sans-serif;
+}
+ul.navbar li{
+    padding: 50px 0px;
+}
+.about{
+
+}
+.about img{
+    height: 300px;
+    width: 300px;
+}
